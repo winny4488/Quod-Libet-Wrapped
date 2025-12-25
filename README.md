@@ -12,7 +12,7 @@ from a local Quod Libet library.
 ./orchestrator.sh
 
 ## Output
-playcounts/<YEAR>/
+`playcounts/<YEAR>/`
   - playcounts.json
   - stats.json
   - Your Top Songs <YEAR>.m3u
